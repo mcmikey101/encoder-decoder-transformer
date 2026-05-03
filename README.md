@@ -1,3 +1,2 @@
 # encoder-decoder-transformer
-
-# russian-to-tatar translation model
+russian-to-tatar translation model
