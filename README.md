@@ -1,2 +1,2 @@
 # encoder-decoder-transformer
-russian-to-tatar translation model (Attention is all you need implementation)
+russian-to-tatar translation model (Attention is all you need implementation) (pytorch + huggingface tokenizer)
